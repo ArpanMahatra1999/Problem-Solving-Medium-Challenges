@@ -1,5 +1,5 @@
 # Python-Medium-Challengers
-It is set of medium level python challanges for coding exams.
+It is set of medium level python challenges from hackerrank for coding exams.
 
 Tools used:
 1. Execute Python Online
